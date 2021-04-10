@@ -1,6 +1,13 @@
-# Build and Release Folders
+# Windows
+Thumbs.db
+Desktop.ini
 
+# Mac
+.DS_Store
 
-# Other files and folders
+# VS Code
+.vs
+.vscode
 
-# Executables
+# Webstorm
+.idea

@@ -1,0 +1,93 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+td, th {
+	padding: 3px;
+	border-spacing: 3px;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+	background-repeat: repeat;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+.piListLabel {
+	font-weight: bold;
+}
+
+.fbListLabelTitle {
+	font-style: italic;
+}
+
+#poem {
+	font-style: italic;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+.cpp {
+	/*light yellow*/
+	background-color: #FFFFE0;
+}
+
+.softwareEngineering {
+	/*light blue*/
+	background-color: #add8e6;
+}
+
+.work {
+	/*light green*/
+	background-color: #90ee90;
+}
+
+.philosophy {
+	/*light purple*/
+	background-color: #b19cd9;
+}
+
+.webProgramming {
+	/*light pink*/
+	background-color: #ffb6c1;
+}
+
+.biology {
+	/*light orange*/
+	background-color: #fed8b1;
+}
+
+.blank {
+	/*light grey*/
+	background-color: #d3d3d3;
+}
+
