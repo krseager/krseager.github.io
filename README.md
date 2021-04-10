@@ -1,4 +1,5 @@
 Styles that were used:
+
 	(5 points)		CSS3 Web Fonts.
 	(5 points)		Set a repeating background image
 	(5 points)		Put a nav menu somewhere on your page.
